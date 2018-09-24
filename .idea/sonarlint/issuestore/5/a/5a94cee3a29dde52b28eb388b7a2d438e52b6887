@@ -1,0 +1,4 @@
+
+squid:S1450"`Remove the "mtxt_display_info" field and declare it as a local variable in the relevant methods.(£ğÈ‘şÿÿÿÿ8»ò¤œß,
+~squid:S00116"\Rename this field "mtxt_display_info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ğÈ‘şÿÿÿÿ8»ò¤œß,
+=squid:S1643"Use a StringBuilder instead.(ìÍ şüÿÿÿÿ8»ò¤œß,

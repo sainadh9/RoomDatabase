@@ -1,0 +1,4 @@
+
+rsquid:S00116"VRename this field "mbtn_delete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΩπÅE8ò≠∫≈ﬂ,
+vsquid:S00116"YRename this field "met_deleteUser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï∆∞ä8ò≠∫≈ﬂ,
+usquid:S1450"ZRemove the "mbtn_delete" field and declare it as a local variable in the relevant methods.(ΩπÅE8ò≠∫≈ﬂ,

@@ -1,0 +1,6 @@
+
+wsquid:S00116"URename this field "met_userId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ό£ÿÿÿÿÿ8Ρ£ξέ,
+zsquid:S00116"XRename this field "met_userEmail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ό£ÿÿÿÿÿ8Ρ£ξέ,
+vsquid:S00116"TRename this field "mbtn_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΎΔ°¬ϋÿÿÿÿ8Ρ£ξέ,
+ysquid:S00116"WRename this field "met_userName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ό£ÿÿÿÿÿ8Ρ£ξέ,
+ysquid:S1450"XRemove the "mbtn_save" field and declare it as a local variable in the relevant methods.(ΎΔ°¬ϋÿÿÿÿ8Ρ£ξέ,

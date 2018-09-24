@@ -1,0 +1,10 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8®ôîß,
+}squid:S1450"\Remove the "mbtn_add_user" field and declare it as a local variable in the relevant methods.(¿ÒÛûÿÿÿÿ8®ôîß,
+squid:S1450"^Remove the "mbtn_view_users" field and declare it as a local variable in the relevant methods.(¿ÒÛûÿÿÿÿ8®ôîß,
+€squid:S1450"_Remove the "mbtn_delete_user" field and declare it as a local variable in the relevant methods.(¿ÒÛûÿÿÿÿ8®ôîß,
+€squid:S1450"_Remove the "mbtn_update_user" field and declare it as a local variable in the relevant methods.(¿ÒÛûÿÿÿÿ8®ôîß,
+zsquid:S00116"XRename this field "mbtn_add_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÒÛûÿÿÿÿ8®ôîß,
+|squid:S00116"ZRename this field "mbtn_view_users" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÒÛûÿÿÿÿ8®ôîß,
+}squid:S00116"[Rename this field "mbtn_delete_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÒÛûÿÿÿÿ8®ôîß,
+}squid:S00116"[Rename this field "mbtn_update_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÒÛûÿÿÿÿ8®ôîß,

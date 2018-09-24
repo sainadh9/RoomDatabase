@@ -1,0 +1,9 @@
+
+Osquid:S1444"3Make this "public static myAppDatabase" field final(÷ßÒ8áŞŒœß,
+Rsquid:S1444"6Make this "public static fragmentManager1" field final(£š”¨8áŞŒœß,
+"squid:ClassVariableVisibilityCheck"[Make fragmentManager a static final constant or non-public and provide accessors if needed.(£š”¨8áŞŒœß,
+Œ"squid:ClassVariableVisibilityCheck"YMake myAppDatabase a static final constant or non-public and provide accessors if needed.(÷ßÒ8áŞŒœß,
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ÎâÒ²üÿÿÿÿ8áŞŒœß,
+"squid:ClassVariableVisibilityCheck"\Make fragmentManager1 a static final constant or non-public and provide accessors if needed.(£š”¨8áŞŒœß,
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(·Ë‚İüÿÿÿÿ8áŞŒœß,
+Qsquid:S1444"5Make this "public static fragmentManager" field final(£š”¨8áŞŒœß,
